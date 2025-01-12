@@ -24,7 +24,10 @@
 > **<del>(No malicious actions are included in the source code.)</del>**
 
 # Usage
-> **You must run server.py on the same server or it will not be activated.**
+> ## Execution
+> **You must run server.py on the same server or it will not be activated.**<br>
+> SharpCry.exe --debug &:: DEBUG MODE: PRINTS ALL INFORMATION<br>
+> SharpCry.exe --force &:: ACTION MODE: ENCRYPT ALL FILES<br>
 > ## Configuration
 ```CSharp
 public static string __KILL_SWITCH = "KILL_SWITCH_SERVER"; // i.e. http://localhost:8080/
