@@ -1,0 +1,14 @@
+C:\Users\maste\source\repos\SharpCry\SharpCry\obj\Debug\net8.0\SharpCry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maste\source\repos\SharpCry\SharpCry\obj\Debug\net8.0\SharpCry.AssemblyInfoInputs.cache
+C:\Users\maste\source\repos\SharpCry\SharpCry\obj\Debug\net8.0\SharpCry.AssemblyInfo.cs
+C:\Users\maste\source\repos\SharpCry\SharpCry\obj\Debug\net8.0\SharpCry.csproj.CoreCompileInputs.cache
+C:\Users\maste\source\repos\SharpCry\SharpCry\bin\Debug\net8.0\SharpCry.exe
+C:\Users\maste\source\repos\SharpCry\SharpCry\bin\Debug\net8.0\SharpCry.deps.json
+C:\Users\maste\source\repos\SharpCry\SharpCry\bin\Debug\net8.0\SharpCry.runtimeconfig.json
+C:\Users\maste\source\repos\SharpCry\SharpCry\bin\Debug\net8.0\SharpCry.dll
+C:\Users\maste\source\repos\SharpCry\SharpCry\bin\Debug\net8.0\SharpCry.pdb
+C:\Users\maste\source\repos\SharpCry\SharpCry\obj\Debug\net8.0\SharpCry.dll
+C:\Users\maste\source\repos\SharpCry\SharpCry\obj\Debug\net8.0\refint\SharpCry.dll
+C:\Users\maste\source\repos\SharpCry\SharpCry\obj\Debug\net8.0\SharpCry.pdb
+C:\Users\maste\source\repos\SharpCry\SharpCry\obj\Debug\net8.0\SharpCry.genruntimeconfig.cache
+C:\Users\maste\source\repos\SharpCry\SharpCry\obj\Debug\net8.0\ref\SharpCry.dll

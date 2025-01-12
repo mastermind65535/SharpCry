@@ -1,0 +1,2 @@
+C:\Users\maste\source\repos\SharpCry\SharpCry\bin\Release\net8.0\win-x64\publish\win-x64\SharpCry.pdb
+C:\Users\maste\source\repos\SharpCry\SharpCry\bin\Release\net8.0\win-x64\publish\win-x64\SharpCry.exe

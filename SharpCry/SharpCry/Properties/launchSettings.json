@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SharpCry": {
+      "commandName": "Project",
+      "commandLineArgs": "--debug"
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maste\\source\\repos\\SharpCry\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2404DE2-DBF4-4827-B0F5-A951AEE17260}|SharpCry\\SharpCry.csproj|c:\\users\\maste\\source\\repos\\sharpcry\\sharpcry\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2404DE2-DBF4-4827-B0F5-A951AEE17260}|SharpCry\\SharpCry.csproj|solutionrelative:sharpcry\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4806A269-DC9B-480D-A14C-8BEDB8EB4667}|Decrypt_SharpCry\\Decrypt_SharpCry.csproj|c:\\users\\maste\\source\\repos\\sharpcry\\decrypt_sharpcry\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4806A269-DC9B-480D-A14C-8BEDB8EB4667}|Decrypt_SharpCry\\Decrypt_SharpCry.csproj|solutionrelative:decrypt_sharpcry\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2404DE2-DBF4-4827-B0F5-A951AEE17260}|SharpCry\\SharpCry.csproj|c:\\users\\maste\\source\\repos\\sharpcry\\sharpcry\\sharpcry.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2404DE2-DBF4-4827-B0F5-A951AEE17260}|SharpCry\\SharpCry.csproj|solutionrelative:sharpcry\\sharpcry.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SharpCry",
+              "DocumentMoniker": "C:\\Users\\maste\\source\\repos\\SharpCry\\SharpCry\\SharpCry.csproj",
+              "RelativeDocumentMoniker": "SharpCry\\SharpCry.csproj",
+              "ToolTip": "C:\\Users\\maste\\source\\repos\\SharpCry\\SharpCry\\SharpCry.csproj",
+              "RelativeToolTip": "SharpCry\\SharpCry.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-12T06:26:26.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maste\\source\\repos\\SharpCry\\Decrypt_SharpCry\\Program.cs",
+              "RelativeDocumentMoniker": "Decrypt_SharpCry\\Program.cs",
+              "ToolTip": "C:\\Users\\maste\\source\\repos\\SharpCry\\Decrypt_SharpCry\\Program.cs",
+              "RelativeToolTip": "Decrypt_SharpCry\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T02:27:57.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maste\\source\\repos\\SharpCry\\SharpCry\\Program.cs",
+              "RelativeDocumentMoniker": "SharpCry\\Program.cs",
+              "ToolTip": "C:\\Users\\maste\\source\\repos\\SharpCry\\SharpCry\\Program.cs",
+              "RelativeToolTip": "SharpCry\\Program.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAQwDwAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T02:25:25.779Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
