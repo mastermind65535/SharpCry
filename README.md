@@ -24,22 +24,19 @@
 > **<del>(No malicious actions are included in the source code.)</del>**
 
 # Usage
+> **You must run server.py on the same server or it will not be activated.**
 > ## Configuration
-> 1. Find **__AES_KEY** inside the Program.cs under SharpCry project.
-> 2. Put your AES key into the variable.
-> 3. Find **__AES_IV** inside the Program.cs under SharpCry project.
-> 4. Put your AES iv into the variable.
-> 5. Find **__KILL_SWITCH** inside the Program.cs under SharpCry project.
-> 6. Put your kill switch link into the variable.
+```CSharp
+public static string __KILL_SWITCH = "KILL_SWITCH_SERVER"; // i.e. http://localhost:8080/
+```
 > 
 > **The kill switch will be automatically activate if the program cannot "access" to the link. This means if your kill switch server is NOT active, it will shutdown.**
 > ## Manual Compilation
 > 1. Load the **SharpCry.sln** in [Visual Studio 2022](https://visualstudio.microsoft.com/vs/).<br>
-> 2. From the menu located above, go to Debug drop bow next to the green build button and select **Release**.<br>
-> 3. Click the green button says **SharpCry**.<br>
-> 4. Go to project directory and find **bin/Release/net8.0-windows/**.<br>
-> 5. Use both .exe & .dll file to run the result.<br>
+> 2. **Publish** the solution.<br>
+> 3. Go to **bin/Release/net8.0/win-x64/publish/win-x64/**
+> 4. Use the **SharpCry.exe**.<br>
 > ## Prebuilt Executable
-> **!WARNING! Using the prebuilt executable will not run any code. (It prints "complete" on a minimized cmd window frame and pauses for exit)**<br>
-> 1. Go to project directory and find **bin\Release\net8.0-windows\**.<br>
-> 2. Use both .exe & .dll file to run the result.<br>
+> **!WARNING! Prebuilt executable does not support remote server. This mean the program ONLY works on your device.**<br>
+> 1. Go to project directory and find **bin/Release/net8.0/win-x64/publish/win-x64/**.<br>
+> 2. Use the **SharpCry.exe**.<br>
