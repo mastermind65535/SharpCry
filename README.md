@@ -3,6 +3,7 @@
 
 ## Screenshots
 <img src="screenshot.png">
+<img src="screenshot2.png">
 
 ## Videos
 
