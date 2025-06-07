@@ -39,7 +39,3 @@ public static string __KILL_SWITCH = "KILL_SWITCH_SERVER"; // i.e. http://localh
 > 2. **Publish** the solution.<br>
 > 3. Go to **bin/Release/net8.0/win-x64/publish/win-x64/**
 > 4. Use the **SharpCry.exe**.<br>
-> ## Prebuilt Executable
-> **!WARNING! Prebuilt executable does not support remote server. This mean the program ONLY works on your device.**<br>
-> 1. Go to project directory and find **bin/Release/net8.0/win-x64/publish/win-x64/**.<br>
-> 2. Use the **SharpCry.exe**.<br>
